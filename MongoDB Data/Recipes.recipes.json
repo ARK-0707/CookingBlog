@@ -1,0 +1,1143 @@
+[{
+  "_id": {
+    "$oid": "658bfbd364cbc60d990a906c"
+  },
+  "name": "Stir-fried vegetables",
+  "description": "Crush the garlic and finely slice the chilli and spring onion. Peel and finely slice the red onion, and mix with the garlic, chilli and spring onion.\n                Shred the mangetout, slice the mushrooms and water chestnuts, and mix with the shredded cabbage in a separate bowl to the onion mixture.\n                Heat your wok until its really hot. Add a splash of oil, it should start to smoke & then the chilli and onion mix.\n                \n                Source: https://www.jamieoliver.com/recipes/vegetables-recipes/stir-fried-vegetables/",
+  "email": "hello@hk.com",
+  "ingredients": [
+    "1 clove of garlic",
+    "1 fresh red chilli",
+    "3 spring onions",
+    "1 small red onion",
+    "1 handful of mangetout",
+    "a few shiitake mushrooms",
+    "a few water chestnuts",
+    "1 handful of shredded green cabbage",
+    "olive oil",
+    "2 teaspoons soy sauce",
+    "sesame oil",
+    "sesame seeds, to sprinkle on top"
+  ],
+  "category": "Chinese",
+  "image": "stir-fried-vegetables.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658bfbd364cbc60d990a906d"
+  },
+  "name": "Chinese Steak Tofu Stew",
+  "description": "Get your prep done first, for smooth cooking. Chop the steak into 1cm chunks, trimming away and discarding any fat.\n                Peel and finely chop the garlic and ginger and slice the chilli. Trim the spring onions, finely slice the top green halves and put aside, then chop the whites into 2cm chunks. Peel the carrots and mooli or radishes, and chop to a similar size.\n                Place a large pan on a medium-high heat and toast the Szechuan peppercorns while it heats up. Tip into a pestle and mortar, leaving the pan on the heat.\n                Place the chopped steak in the pan with 1 tablespoon of groundnut oil. Stir until starting to brown, then add the garlic, ginger, chilli, the white spring onions, carrots and mooli or radishes.\n                Cook for 5 minutes, stirring regularly, then stir in the chilli bean paste for 30 seconds until dark. Pour in the stock and simmer for 10 minutes.\n                Meanwhile, drain the beans, put them into a pan with the rice and a pinch of sea salt, and cover by 1cm with cold water. Place on a high heat, bring to the boil, then simmer until the water level meets the rice. Cover and leave on the lowest heat for 12 minutes, or until cooked through, stirring occasionally.\n                Taste the stew and season to perfection. Mix the cornflour with 2 tablespoons of cold water until combined, then stir into the stew.\n                Trim and stir in the broccoli. Chop the tofu into 2cm chunks and drop them in, then pop a lid on and keep on a low heat for 5 to 8 minutes while the stew thickens up and the broccoli just cooks through.\n                Serve the stew scattered with the sliced green spring onions, with the sticky rice and beans on the side. Finely crush and scatter over some Szechuan pepper. Nice with drips of chilli oil, to taste.\n                \n                Source: https://www.jamieoliver.com/recipes/stew-recipes/chinese-steak-tofu-stew/",
+  "email": "helo@hk.com",
+  "ingredients": [
+    "250g rump or sirloin steak",
+    "2 cloves of garlic",
+    "4cm piece of ginger",
+    "2 fresh red chilli",
+    "1 bunch of spring onions",
+    "2 large carrots",
+    "250g mooli or radishes",
+    "1 heaped teaspoon Szechuan peppercorns",
+    "groundnut oil",
+    "2 tablespoons Chinese chilli bean paste",
+    "1 litre veg stock",
+    "1 x 400g tin of aduki beans",
+    "250g pudding or risotto rice",
+    "1 tablespoon cornflour",
+    "200g tenderstem broccoli",
+    "350g firm silken tofu"
+  ],
+  "category": "Chinese",
+  "image": "chinese-steak-tofu-stew.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658bfbd364cbc60d990a906e"
+  },
+  "name": "Chocolate Banoffe Whoopie Pie",
+  "description": "Preheat the oven to 170ºC/gas 3. Line two large baking trays with greaseproof paper.\n                Sift together the flour, cocoa, baking powder, bicarbonate of soda and a pinch of sea salt.\n                Chop and melt the chocolate with the butter in a heatproof bowl over a pan of barely simmering water. Stir until smooth and set aside to cool.\n                In a large bowl, lightly beat the egg, then whisk in the sugars and soured cream. Stir in the melted chocolate and butter to combine.\n                Add the sifted dry ingredients and 5 tablespoons of boiling water, and mix until smooth. Fold in the white chocolate chips.\n                Spoon 12 even dollops onto each baking sheet, leaving plenty of space between them. Bake on the middle shelf of the oven for 10 to 12 minutes.\n                Leave to cool on the trays for a few minutes, then transfer to a wire rack to cool completely.\n                For the buttercream frosting, melt the white chocolate in a heatproof bowl over a pan of simmering water. Stir until smooth, then leave to cool.\n                Sift the icing sugar into a large bowl, add the butter and vanilla, then beat until smooth and light. Add the cooled chocolate and stir to combine.\n                Fill a large piping bag with frosting and pipe onto the flat side of 12 of the whoopies. Sandwich with the remaining cakes.\n                Melt all the glaze ingredients in a heatproof bowl over a pan of simmering water, stirring until smooth. Leave to cool slightly. Spoon over the pies, decorate with sprinkles, if you like, and leave to set before serving.\n                \n                Source: https://www.jamieoliver.com/recipes/chocolate-recipes/chocolate-whoopie-pies/",
+  "email": "hellodk@hk.com",
+  "ingredients": [
+    "275 g plain flour",
+    "2 tablespoons cocoa powder",
+    "1½ tesapoons bicarbonate of soda",
+    "75 g dark chocolate",
+    "75 g unsalted butter",
+    "1 large free-range egg",
+    "125 g light muscovado sugar",
+    "75 g caster sugar",
+    "125 g soured cream",
+    "75 g white chocolate chips",
+    "100 g white chocolate",
+    "150 g icing sugar",
+    "100 g unsalted butter",
+    "½ teaspoon vanilla extract",
+    "150 g dark chocolate",
+    "150 ml single cream",
+    "1 tablespoon light muscovado sugar"
+  ],
+  "category": "American",
+  "image": "chocolate-banoffe-whoopie-pies.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658bfbd364cbc60d990a906f"
+  },
+  "name": "Crab Cakes",
+  "description": "Trim and finely chop the spring onions, and pick and finely chop the parsley. Beat the egg.\n                Combine the crabmeat, potatoes, spring onion, parsley, white pepper, cayenne and egg in a bowl with a little sea salt.\n                Refrigerate for 30 minutes, then shape into 6cm cakes.\n                Dust with flour and shallow-fry in oil over a medium heat for about 5 minutes each side or until golden-brown.\n                Serve with pinches of watercress and a dollop of tartare sauce.\n                \n                Source: https://www.jamieoliver.com/recipes/seafood-recipes/crab-cakes/",
+  "email": "hesdllo@hk.com",
+  "ingredients": [
+    "3 spring onions",
+    "½ a bunch of fresh flat-leaf parsley",
+    "1 large free-range egg",
+    "750 g cooked crabmeat",
+    "300 g mashed potatoes",
+    "1 teaspoon ground white pepper",
+    "1 teaspoon cayenne pepper",
+    "plain flour , for dusting",
+    "olive oil",
+    "watercress",
+    "tartare sauce"
+  ],
+  "category": "American",
+  "image": "crab-cakes.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658bfbd364cbc60d990a9070"
+  },
+  "name": "Grilled Lobster Rolls",
+  "description": "Remove the butter from the fridge and allow to soften.\n                Preheat a griddle pan until really hot.\n                Butter the rolls on both sides and grill on both sides until toasted and lightly charred (keep an eye on them so they don’t burn).\n                Trim and dice the celery, chop the lobster meat and combine with the mayonnaise. Season with sea salt and black pepper to taste.\n                Open your warm grilled buns, shred and pile the lettuce inside each one and top with the lobster mixture. Serve immediately.\n                \n                Source: https://www.jamieoliver.com/recipes/seafood-recipes/grilled-lobster-rolls/",
+  "email": "hello@hk.com",
+  "ingredients": [
+    "85 g butter",
+    "6 submarine rolls",
+    "500 g cooked lobster meat, from sustainable sources",
+    "1 stick of celery",
+    "2 tablespoons mayonnaise , made using free-range eggs",
+    "½ an iceberg lettuce"
+  ],
+  "category": "Chinese",
+  "image": "grilled-lobster-rolls.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658bfbd364cbc60d990a9071"
+  },
+  "name": "Key Lime pie",
+  "description": "Preheat the oven to 175ºC/gas 3. Lightly grease a 22cm metal or glass pie dish with a little of the butter.\n                For the pie crust, blend the biscuits, sugar and remaining butter in a food processor until the mixture resembles breadcrumbs.\n                Transfer to the pie dish and spread over the bottom and up the sides, firmly pressing down.\n                Bake for 10 minutes, or until lightly browned. Remove from oven and place the dish on a wire rack to cool.\n                For the filling, whisk the egg yolks in a bowl. Gradually whisk in the condensed milk until smooth.\n                Mix in 6 tablespoons of lime juice, then pour the filling into the pie crust and level over with the back of a spoon.\n                Return to the oven for 15 minutes, then place on a wire rack to cool.\n                Once cooled, refrigerate for 6 hours or overnight.\n                To serve, whip the cream until it just holds stiff peaks. Add dollops of cream to the top of the pie, and grate over some lime zest, for extra zing if you like.\n                \n                Source: https://www.jamieoliver.com/recipes/fruit-recipes/key-lime-pie/",
+  "email": "hello@hk.com",
+  "ingredients": [
+    "4 large free-range egg yolks",
+    "400 ml condensed milk",
+    "5 limes",
+    "200 ml double cream",
+    "135 g unsalted butter",
+    "12 digestive biscuits",
+    "45 g caster sugar"
+  ],
+  "category": "American",
+  "image": "key-lime-pie.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658bfbd364cbc60d990a9072"
+  },
+  "name": "Southern fried chicken",
+  "description": "To make the brine, toast the peppercorns in a large pan on a high heat for 1 minute, then add the rest of the brine ingredients and 400ml of cold water. Bring to the boil, then leave to cool, topping up with another 400ml of cold water.\n                Meanwhile, slash the chicken thighs a few times as deep as the bone, keeping the skin on for maximum flavour. Once the brine is cool, add all the chicken pieces, cover with clingfilm and leave in the fridge for at least 12 hours – I do this overnight.\n                After brining, remove the chicken to a bowl, discarding the brine, then pour over the buttermilk, cover with clingfilm and place in the fridge for a further 8 hours, so the chicken is super-tender.\n                When you're ready to cook, preheat the oven to 190°C/375°F/gas 5.\n                Wash the sweet potatoes well, roll them in a little sea salt, place on a tray and bake for 30 minutes.\n                \n                Source: https://www.jamieoliver.com/recipes/chicken-recipes/southern-fried-chicken/",
+  "email": "heldhklo@hk.com",
+  "ingredients": [
+    "4 free-range chicken thighs , skin on, bone in",
+    "4 free-range chicken drumsticks",
+    "200 ml buttermilk",
+    "4 sweet potatoes",
+    "200 g plain flour",
+    "1 level teaspoon baking powder",
+    "1 level teaspoon cayenne pepper",
+    "1 level teaspoon hot smoked paprika",
+    "1 level teaspoon onion powder",
+    "1 level teaspoon garlic powder",
+    "2 litres groundnut oil",
+    "1 tablespoon black peppercorns",
+    "25 g sea salt",
+    "100 g brown sugar",
+    "4 sprigs of fresh thyme",
+    "4 fresh bay leaves",
+    "4 cloves of garlic",
+    "1 teaspoon fennel seeds",
+    "100 ml red wine vinegar",
+    "1 heaped tablespoon golden caster sugar",
+    "½ red cabbage , (500g)"
+  ],
+  "category": "American",
+  "image": "southern-friend-chicken.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658bfbd364cbc60d990a9073"
+  },
+  "name": "Spring rolls",
+  "description": "Put your mushrooms in a medium-sized bowl, cover with hot water and leave for 10 minutes, or until soft. Meanwhile, place the noodles in a large bowl, cover with boiling water and leave for 1 minute. Drain, rinse under cold water, then set aside.\n                For the filling, finely slice the cabbage and peel and julienne the carrot. Add these to a large bowl with the noodles.\n                Slice the white part of the spring onions on the diagonal and add to the bowl. Finely slice the green parts into ribbons and reserve for later.\n                \n                Source: https://www.jamieoliver.com/recipes/vegetables-recipes/spring-rolls/",
+  "email": "hello@hk.com",
+  "ingredients": [
+    "40 g dried Asian mushrooms",
+    "50 g vermicelli noodles",
+    "200 g Chinese cabbage",
+    "1 carrot",
+    "3 spring onions",
+    "5 cm piece of ginger",
+    "1 red chilli",
+    "1 big bunch of fresh Thai basil , (30g)",
+    "1 big bunch of fresh coriander , (30g)",
+    "3 tablespoons toasted peanuts",
+    "20 ml sesame oil",
+    "75 g beansprouts , (ready to eat)",
+    "2 tablespoons low-salt soy sauce",
+    "2 tablespoons oyster sauce",
+    "1 tablespoon cornflour",
+    "16 large spring-roll wrappers , thawed if frozen",
+    "1 tablespoon five-spice powder",
+    "1 litre groundnut oil",
+    "sweet chilli sauce , to serve"
+  ],
+  "category": "Chinese",
+  "image": "spring-rolls.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c07c251a9ae9cafb038fe"
+  },
+  "name": "Thai pinched salad",
+  "description": "Peel and very finely chop the ginger and deseed and finely slice the chilli (deseed if you like). Toast the sesame seeds in a dry frying pan until lightly golden, then remove to a bowl.\n                Mix the prawns with the five-spice and ginger, finely grate in the lime zest and add a splash of sesame oil. Toss to coat, then leave to marinate.\n                Trim the lettuces, discarding any tatty outer leaves, then click the leaves apart. Pick out 12 nice-looking inner leaves (save the remaining lettuce for another recipe).\n                Cook the noodles according to the packet instructions, then drain and toss in a little sesame oil. Leave to cool, then squeeze over the lime juice.\n                Scatter over the chilli and sesame seeds, then pick over the coriander leaves. Mix well.\n                Stir-fry the marinated prawns in a hot wok or frying pan over a high heat for 2 to 3 minutes, or until just cooked. Remove to a plate.\n                \n                Source: https://www.jamieoliver.com/recipes/seafood-recipes/asian-pinch-salad/",
+  "email": "hello@hk.com",
+  "ingredients": [
+    "5 cm piece of ginger",
+    "1 fresh red chilli",
+    "25 g sesame seeds",
+    "24 raw peeled king prawns , from sustainable sources (defrost first, if using frozen)",
+    "1 pinch Chinese five-spice powder",
+    "1 lime",
+    "sesame oil",
+    "2 round lettuces",
+    "50 g fine rice noodles",
+    "½ a bunch of fresh coriander (15g)"
+  ],
+  "category": "Thai",
+  "image": "thai-chinese-inspired-pinch-salad.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c07c251a9ae9cafb038ff"
+  },
+  "name": "Thai green curry",
+  "description": "Preheat the oven to 180ºC/350ºF/gas 4.\n                Wash the squash, carefully cut it in half lengthways and remove the seeds, then cut into wedges. In a roasting tray, toss with 1 tablespoon of groundnut oil and a pinch of sea salt and black pepper, then roast for around 1 hour, or until tender and golden.\n                For the paste, toast the cumin seeds in a dry frying pan for 2 minutes, then tip into a food processor.\n                Peel, roughly chop and add the garlic, shallots and ginger, along with the kaffir lime leaves, 2 tablespoons of groundnut oil, the fish sauce, chillies (pull off the stalks), coconut and most of the coriander (stalks and all).\n                Bash the lemongrass, remove and discard the outer layer, then snap into the processor, squeeze in the lime juice and blitz into a paste, scraping down the sides halfway.\n                \n                Source: https://www.jamieoliver.com/recipes/butternut-squash-recipes/thai-green-curry/",
+  "email": "hello@hk.com",
+  "ingredients": [
+    "1 butternut squash (1.2kg)",
+    "groundnut oil",
+    "2x 400 g tins of light coconut milk",
+    "400 g leftover cooked greens, such as Brussels sprouts, Brussels tops, kale, cabbage, broccoli",
+    "350 g firm silken tofu",
+    "75 g unsalted peanuts",
+    "sesame oil",
+    "1 fresh red chilli",
+    "2 limes",
+    "1 teaspoon cumin seeds",
+    "2 cloves garlic",
+    "2 shallots",
+    "5 cm piece of ginger",
+    "4 lime leaves",
+    "2 tablespoons fish sauce",
+    "4 fresh green chillies",
+    "2 tablespoons desiccated coconut",
+    "1 bunch fresh coriander (30g)",
+    "1 stick lemongrass",
+    "1 lime"
+  ],
+  "category": "Thai",
+  "image": "thai-green-curry.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c07c251a9ae9cafb03900"
+  },
+  "name": "Thai vegetable broth",
+  "description": "Peel and crush the garlic, then peel and roughly chop the ginger. Trim the greens, finely shredding the cabbage, if using. Trim and finely slice the spring onions and chilli. Pick the herbs.\n                Bash the lemongrass on a chopping board with a rolling pin until it breaks open, then add to a large saucepan along with the garlic, ginger and star anise.\n                Place the pan over a high heat, then pour in the vegetable stock. Bring it just to the boil, then turn down very low and gently simmer for 30 minutes.\n                A couple of minutes before it’s cooked, throw in your Asian veggies and gently cook until they are wilted but still crunchy.\n                Serve the broth in deep bowls seasoned with fish sauce (if using) and soy sauce, sprinkle with the herbs, cress, spring onion and chilli, then serve with wedges of lime.\n                \n                Source: https://www.jamieoliver.com/recipes/vegetables-recipes/asian-vegetable-broth/",
+  "email": "hello@hk.com",
+  "ingredients": [
+    "3 cloves of garlic",
+    "5cm piece of ginger",
+    "200 g mixed Asian greens , such as baby pak choi, choy sum, Chinese cabbage",
+    "2 spring onions",
+    "1 fresh red chilli",
+    "5 sprigs of fresh Thai basil",
+    "1 stick of lemongrass",
+    "2 star anise",
+    "800 ml clear organic vegetable stock",
+    "1 teaspoon fish sauce , (optional)",
+    "1 teaspooon soy sauce",
+    "1 small punnet shiso cress",
+    "1 lime"
+  ],
+  "category": "Thai",
+  "image": "thai-inspired-vegetable-broth.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c07c251a9ae9cafb03901"
+  },
+  "name": "Thai red chicken soup",
+  "description": "Sit the chicken in a large, deep pan.\n                Carefully halve the squash lengthways, then cut into 3cm chunks, discarding the seeds.\n                Slice the coriander stalks, add to the pan with the squash, curry paste and coconut milk, then pour in 1 litre of water. Cover and simmer on a medium heat for 1 hour 20 minutes.\n                Use tongs to remove the chicken to a platter. Spoon any fat from the surface of the soup over the chicken, then sprinkle with half the coriander leaves.\n                Serve with 2 forks for divvying up the meat at the table. Use a potato masher to crush some of the squash, giving your soup a thicker texture.\n                Taste, season to perfection with sea salt and black pepper, then divide between six bowls and sprinkle with the remaining coriander.\n                Shred and add chicken, as you dig in.\n                \n                Source: https://jamieoliver.com/recipes/chicken-recipes/thai-red-chicken-soup/",
+  "email": "hello@hk.com",
+  "ingredients": [
+    "1 x 1.6 kg whole chicken",
+    "1 butternut squash (1.2kg)",
+    "1 bunch of fresh coriander (30g)",
+    "100 g Thai red curry paste",
+    "1 x 400 ml tin of light coconut milk"
+  ],
+  "category": "Thai",
+  "image": "thai-red-chicken-soup.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c07c251a9ae9cafb03902"
+  },
+  "name": "Thai style mussels",
+  "description": "Wash the mussels thoroughly, discarding any that aren’t tightly closed.\n                Trim and finely slice the spring onions, peel and finely slice the garlic. Pick and set aside the coriander leaves, then finely chop the stalks. Cut the lemongrass into 4 pieces, then finely slice the chilli.\n                In a wide saucepan, heat a little groundnut oil and soften the spring onion, garlic, coriander stalks, lemongrass and most of the red chilli for around 5 minutes.\n                Add the coconut milk and fish sauce and bring to the boil, then add the mussels and cover the pan.\n                Steam the mussels for 5 minutes, or until they've all opened and are cooked. Discard any unopened mussels.\n                Finish with a squeeze of lime juice, then sprinkle with coriander leaves and the remaining chilli to serve.\n                \n                Source: https://www.jamieoliver.com/recipes/seafood-recipes/thai-style-mussels/",
+  "email": "hello@hk.com",
+  "ingredients": [
+    "1 kg mussels , debearded, from sustainable sources",
+    "4 spring onions",
+    "2 cloves of garlic",
+    "½ a bunch of fresh coriander",
+    "1 stick of lemongrass",
+    "1 fresh red chilli",
+    "groundnut oil",
+    "1 x 400 ml tin of reduced fat coconut milk",
+    "1 tablespoon fish sauce",
+    "1 lime"
+  ],
+  "category": "Thai",
+  "image": "thai-style-mussels.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c07c251a9ae9cafb03903"
+  },
+  "name": "Tom daley",
+  "description": "Drain the juices from the tinned fruit into a bowl, add the soy and fish sauces, then whisk in 1 teaspoon of cornflour until smooth. Chop the pineapple and peaches into bite-sized chunks and put aside.\n                Pull off the chicken skin, lay it flat in a large, cold frying pan, place on a low heat and leave for a few minutes to render the fat, turning occasionally. Once golden, remove the crispy skin to a plate, adding a pinch of sea salt and five-spice.\n                Meanwhile, slice the chicken into 3cm chunks and place in a bowl with 1 heaped teaspoon of five-spice, a pinch of salt, 1 teaspoon of cornflour and half the lime juice. Peel, finely chop and add 1 clove of garlic, then toss to coat.\n                Next, prep the veg: trim and roughly slice the asparagus and broccoli at an angle, leaving the pretty tips intact. Peel the onion, cut into quarters and break apart into petals, then peel the remaining clove of garlic and finely slice with the chillies. Deseed and roughly chop the peppers, then peel and matchstick the ginger.\n                Place the frying pan on a high heat and cook the chicken for 5 to 6 minutes, or until golden and cooked through, turning halfway, then leave on a low heat.\n                Meanwhile, place a wok on a high heat and scatter in the pepper and onion to scald and char for 5 minutes. Add 1 tablespoon of oil, followed by the peaches, pineapple, ginger, garlic, most of the chillies, the baby sweetcorn, asparagus and broccoli.\n                Stir-fry for 3 minutes, then pour in the sauce. Cook for just a few minutes – you want to keep the veg on the edge of raw – adding a good splash of boiling water to loosen the sauce, if needed.\n                Drizzle the honey into the chicken pan, turn the heat back up to high, and toss until sticky and caramelized. Plate up the veg and top with the chicken. Clank up the reserved crispy skin, and scatter over with the remaining chilli.\n                Pick over the coriander leaves and serve right away, with lime wedges for squeezing over. Good with classic fluffy rice.\n                \n                Source: https://www.jamieoliver.com/recipes/chicken-recipes/tom-daley-s-sweet-sour-chicken/",
+  "email": "hello@hk.com",
+  "ingredients": [
+    "1 x 227 g tin of pineapple in natural juice",
+    "1 x 213 g tin of peaches in natural juice",
+    "1 tablespoon low-salt soy sauce",
+    "1 tablespoon fish sauce",
+    "2 teaspoons cornflour",
+    "2 x 120 g free-range chicken breasts , skin on",
+    "Chinese five-spice",
+    "1 lime",
+    "2 cloves of garlic",
+    "1 bunch of asparagus , (350g)",
+    "100 g tenderstem broccoli",
+    "1 small onion",
+    "2 fresh red chillies",
+    "1 red pepper",
+    "1 yellow pepper",
+    "7 cm piece of ginger",
+    "groundnut oil",
+    "100 g baby sweetcorn",
+    "1 teaspoon runny honey",
+    "½ a bunch of fresh coriander , (15g)"
+  ],
+  "category": "Chinese",
+  "image": "tom-daley.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c07c251a9ae9cafb03904"
+  },
+  "name": "Veggie pad thai",
+  "description": "Cook the noodles according to the packet instructions, then drain and refresh under cold running water and toss with 1 teaspoon of sesame oil.\n                Lightly toast the peanuts in a large non-stick frying pan on a medium heat until golden, then bash in a pestle and mortar until fine, and tip into a bowl.\n                Peel the garlic and bash to a paste with the tofu, add 1 teaspoon of sesame oil, 1 tablespoon of soy, the tamarind paste and chilli sauce, then squeeze and muddle in half the lime juice.\n                Peel and finely slice the shallot, then place in the frying pan over a high heat. Trim, prep and slice the crunchy veg, as necessary, then dry-fry for 4 minutes, or until lightly charred (to bring out a nutty, slightly smoky flavour).\n                Add the noodles, sauce, beansprouts, and a good splash of water, toss together over the heat for 1 minute, then divide between serving bowls.\n                Wipe out the pan, crack in the eggs and cook to your liking in a little olive oil, sprinkling with a pinch of chilli flakes. Trim the lettuce, click apart the leaves and place a few in each bowl.\n                Pop the eggs on top, pick over the herbs, and sprinkle with the nuts. Serve with lime wedges for squeezing over, and extra soy, to taste.\n                \n                Source: https://www.jamieoliver.com/recipes/vegetable-recipes/veggie-pad-thai/",
+  "email": "hello@hk.com",
+  "ingredients": [
+    "150 g rice noodles",
+    "sesame oil",
+    "20 g unsalted peanuts",
+    "2 cloves of garlic",
+    "80 g silken tofu",
+    "low-salt soy sauce",
+    "2 teaspoons tamarind paste",
+    "2 teaspoons sweet chilli sauce",
+    "2 limes",
+    "1 shallot",
+    "320 g crunchy veg , such as asparagus, purple sprouting broccoli, pak choi, baby corn",
+    "80 g beansprouts",
+    "2 large free-range eggs",
+    "olive oil",
+    "dried chilli flakes",
+    "½ a cos lettuce",
+    "½ a mixed bunch of fresh basil, mint and coriander , (15g)"
+  ],
+  "category": "Thai",
+  "image": "veggie-pad-thai.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c07c6e051475d635556e7"
+  },
+  "name": "Thai pinched salad",
+  "description": "Peel and very finely chop the ginger and deseed and finely slice the chilli (deseed if you like). Toast the sesame seeds in a dry frying pan until lightly golden, then remove to a bowl.\n                Mix the prawns with the five-spice and ginger, finely grate in the lime zest and add a splash of sesame oil. Toss to coat, then leave to marinate.\n                Trim the lettuces, discarding any tatty outer leaves, then click the leaves apart. Pick out 12 nice-looking inner leaves (save the remaining lettuce for another recipe).\n                Cook the noodles according to the packet instructions, then drain and toss in a little sesame oil. Leave to cool, then squeeze over the lime juice.\n                Scatter over the chilli and sesame seeds, then pick over the coriander leaves. Mix well.\n                Stir-fry the marinated prawns in a hot wok or frying pan over a high heat for 2 to 3 minutes, or until just cooked. Remove to a plate.\n                \n                Source: https://www.jamieoliver.com/recipes/seafood-recipes/asian-pinch-salad/",
+  "email": "hello@hk.com",
+  "ingredients": [
+    "5 cm piece of ginger",
+    "1 fresh red chilli",
+    "25 g sesame seeds",
+    "24 raw peeled king prawns , from sustainable sources (defrost first, if using frozen)",
+    "1 pinch Chinese five-spice powder",
+    "1 lime",
+    "sesame oil",
+    "2 round lettuces",
+    "50 g fine rice noodles",
+    "½ a bunch of fresh coriander (15g)"
+  ],
+  "category": "Thai",
+  "image": "thai-chinese-inspired-pinch-salad.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c07c6e051475d635556e8"
+  },
+  "name": "Thai green curry",
+  "description": "Preheat the oven to 180ºC/350ºF/gas 4.\n                Wash the squash, carefully cut it in half lengthways and remove the seeds, then cut into wedges. In a roasting tray, toss with 1 tablespoon of groundnut oil and a pinch of sea salt and black pepper, then roast for around 1 hour, or until tender and golden.\n                For the paste, toast the cumin seeds in a dry frying pan for 2 minutes, then tip into a food processor.\n                Peel, roughly chop and add the garlic, shallots and ginger, along with the kaffir lime leaves, 2 tablespoons of groundnut oil, the fish sauce, chillies (pull off the stalks), coconut and most of the coriander (stalks and all).\n                Bash the lemongrass, remove and discard the outer layer, then snap into the processor, squeeze in the lime juice and blitz into a paste, scraping down the sides halfway.\n                \n                Source: https://www.jamieoliver.com/recipes/butternut-squash-recipes/thai-green-curry/",
+  "email": "hello@hk.com",
+  "ingredients": [
+    "1 butternut squash (1.2kg)",
+    "groundnut oil",
+    "2x 400 g tins of light coconut milk",
+    "400 g leftover cooked greens, such as Brussels sprouts, Brussels tops, kale, cabbage, broccoli",
+    "350 g firm silken tofu",
+    "75 g unsalted peanuts",
+    "sesame oil",
+    "1 fresh red chilli",
+    "2 limes",
+    "1 teaspoon cumin seeds",
+    "2 cloves garlic",
+    "2 shallots",
+    "5 cm piece of ginger",
+    "4 lime leaves",
+    "2 tablespoons fish sauce",
+    "4 fresh green chillies",
+    "2 tablespoons desiccated coconut",
+    "1 bunch fresh coriander (30g)",
+    "1 stick lemongrass",
+    "1 lime"
+  ],
+  "category": "Thai",
+  "image": "thai-green-curry.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c07c6e051475d635556e9"
+  },
+  "name": "Thai vegetable broth",
+  "description": "Peel and crush the garlic, then peel and roughly chop the ginger. Trim the greens, finely shredding the cabbage, if using. Trim and finely slice the spring onions and chilli. Pick the herbs.\n                Bash the lemongrass on a chopping board with a rolling pin until it breaks open, then add to a large saucepan along with the garlic, ginger and star anise.\n                Place the pan over a high heat, then pour in the vegetable stock. Bring it just to the boil, then turn down very low and gently simmer for 30 minutes.\n                A couple of minutes before it’s cooked, throw in your Asian veggies and gently cook until they are wilted but still crunchy.\n                Serve the broth in deep bowls seasoned with fish sauce (if using) and soy sauce, sprinkle with the herbs, cress, spring onion and chilli, then serve with wedges of lime.\n                \n                Source: https://www.jamieoliver.com/recipes/vegetables-recipes/asian-vegetable-broth/",
+  "email": "hello@hk.com",
+  "ingredients": [
+    "3 cloves of garlic",
+    "5cm piece of ginger",
+    "200 g mixed Asian greens , such as baby pak choi, choy sum, Chinese cabbage",
+    "2 spring onions",
+    "1 fresh red chilli",
+    "5 sprigs of fresh Thai basil",
+    "1 stick of lemongrass",
+    "2 star anise",
+    "800 ml clear organic vegetable stock",
+    "1 teaspoon fish sauce , (optional)",
+    "1 teaspooon soy sauce",
+    "1 small punnet shiso cress",
+    "1 lime"
+  ],
+  "category": "Thai",
+  "image": "thai-inspired-vegetable-broth.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c07c6e051475d635556ea"
+  },
+  "name": "Thai red chicken soup",
+  "description": "Sit the chicken in a large, deep pan.\n                Carefully halve the squash lengthways, then cut into 3cm chunks, discarding the seeds.\n                Slice the coriander stalks, add to the pan with the squash, curry paste and coconut milk, then pour in 1 litre of water. Cover and simmer on a medium heat for 1 hour 20 minutes.\n                Use tongs to remove the chicken to a platter. Spoon any fat from the surface of the soup over the chicken, then sprinkle with half the coriander leaves.\n                Serve with 2 forks for divvying up the meat at the table. Use a potato masher to crush some of the squash, giving your soup a thicker texture.\n                Taste, season to perfection with sea salt and black pepper, then divide between six bowls and sprinkle with the remaining coriander.\n                Shred and add chicken, as you dig in.\n                \n                Source: https://jamieoliver.com/recipes/chicken-recipes/thai-red-chicken-soup/",
+  "email": "hello@hk.com",
+  "ingredients": [
+    "1 x 1.6 kg whole chicken",
+    "1 butternut squash (1.2kg)",
+    "1 bunch of fresh coriander (30g)",
+    "100 g Thai red curry paste",
+    "1 x 400 ml tin of light coconut milk"
+  ],
+  "category": "Thai",
+  "image": "thai-red-chicken-soup.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c07c6e051475d635556eb"
+  },
+  "name": "Thai style mussels",
+  "description": "Wash the mussels thoroughly, discarding any that aren’t tightly closed.\n                Trim and finely slice the spring onions, peel and finely slice the garlic. Pick and set aside the coriander leaves, then finely chop the stalks. Cut the lemongrass into 4 pieces, then finely slice the chilli.\n                In a wide saucepan, heat a little groundnut oil and soften the spring onion, garlic, coriander stalks, lemongrass and most of the red chilli for around 5 minutes.\n                Add the coconut milk and fish sauce and bring to the boil, then add the mussels and cover the pan.\n                Steam the mussels for 5 minutes, or until they've all opened and are cooked. Discard any unopened mussels.\n                Finish with a squeeze of lime juice, then sprinkle with coriander leaves and the remaining chilli to serve.\n                \n                Source: https://www.jamieoliver.com/recipes/seafood-recipes/thai-style-mussels/",
+  "email": "hello@hk.com",
+  "ingredients": [
+    "1 kg mussels , debearded, from sustainable sources",
+    "4 spring onions",
+    "2 cloves of garlic",
+    "½ a bunch of fresh coriander",
+    "1 stick of lemongrass",
+    "1 fresh red chilli",
+    "groundnut oil",
+    "1 x 400 ml tin of reduced fat coconut milk",
+    "1 tablespoon fish sauce",
+    "1 lime"
+  ],
+  "category": "Thai",
+  "image": "thai-style-mussels.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c07c6e051475d635556ec"
+  },
+  "name": "Tom daley",
+  "description": "Drain the juices from the tinned fruit into a bowl, add the soy and fish sauces, then whisk in 1 teaspoon of cornflour until smooth. Chop the pineapple and peaches into bite-sized chunks and put aside.\n                Pull off the chicken skin, lay it flat in a large, cold frying pan, place on a low heat and leave for a few minutes to render the fat, turning occasionally. Once golden, remove the crispy skin to a plate, adding a pinch of sea salt and five-spice.\n                Meanwhile, slice the chicken into 3cm chunks and place in a bowl with 1 heaped teaspoon of five-spice, a pinch of salt, 1 teaspoon of cornflour and half the lime juice. Peel, finely chop and add 1 clove of garlic, then toss to coat.\n                Next, prep the veg: trim and roughly slice the asparagus and broccoli at an angle, leaving the pretty tips intact. Peel the onion, cut into quarters and break apart into petals, then peel the remaining clove of garlic and finely slice with the chillies. Deseed and roughly chop the peppers, then peel and matchstick the ginger.\n                Place the frying pan on a high heat and cook the chicken for 5 to 6 minutes, or until golden and cooked through, turning halfway, then leave on a low heat.\n                Meanwhile, place a wok on a high heat and scatter in the pepper and onion to scald and char for 5 minutes. Add 1 tablespoon of oil, followed by the peaches, pineapple, ginger, garlic, most of the chillies, the baby sweetcorn, asparagus and broccoli.\n                Stir-fry for 3 minutes, then pour in the sauce. Cook for just a few minutes – you want to keep the veg on the edge of raw – adding a good splash of boiling water to loosen the sauce, if needed.\n                Drizzle the honey into the chicken pan, turn the heat back up to high, and toss until sticky and caramelized. Plate up the veg and top with the chicken. Clank up the reserved crispy skin, and scatter over with the remaining chilli.\n                Pick over the coriander leaves and serve right away, with lime wedges for squeezing over. Good with classic fluffy rice.\n                \n                Source: https://www.jamieoliver.com/recipes/chicken-recipes/tom-daley-s-sweet-sour-chicken/",
+  "email": "hello@hk.com",
+  "ingredients": [
+    "1 x 227 g tin of pineapple in natural juice",
+    "1 x 213 g tin of peaches in natural juice",
+    "1 tablespoon low-salt soy sauce",
+    "1 tablespoon fish sauce",
+    "2 teaspoons cornflour",
+    "2 x 120 g free-range chicken breasts , skin on",
+    "Chinese five-spice",
+    "1 lime",
+    "2 cloves of garlic",
+    "1 bunch of asparagus , (350g)",
+    "100 g tenderstem broccoli",
+    "1 small onion",
+    "2 fresh red chillies",
+    "1 red pepper",
+    "1 yellow pepper",
+    "7 cm piece of ginger",
+    "groundnut oil",
+    "100 g baby sweetcorn",
+    "1 teaspoon runny honey",
+    "½ a bunch of fresh coriander , (15g)"
+  ],
+  "category": "Chinese",
+  "image": "tom-daley.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c07c6e051475d635556ed"
+  },
+  "name": "Veggie pad thai",
+  "description": "Cook the noodles according to the packet instructions, then drain and refresh under cold running water and toss with 1 teaspoon of sesame oil.\n                Lightly toast the peanuts in a large non-stick frying pan on a medium heat until golden, then bash in a pestle and mortar until fine, and tip into a bowl.\n                Peel the garlic and bash to a paste with the tofu, add 1 teaspoon of sesame oil, 1 tablespoon of soy, the tamarind paste and chilli sauce, then squeeze and muddle in half the lime juice.\n                Peel and finely slice the shallot, then place in the frying pan over a high heat. Trim, prep and slice the crunchy veg, as necessary, then dry-fry for 4 minutes, or until lightly charred (to bring out a nutty, slightly smoky flavour).\n                Add the noodles, sauce, beansprouts, and a good splash of water, toss together over the heat for 1 minute, then divide between serving bowls.\n                Wipe out the pan, crack in the eggs and cook to your liking in a little olive oil, sprinkling with a pinch of chilli flakes. Trim the lettuce, click apart the leaves and place a few in each bowl.\n                Pop the eggs on top, pick over the herbs, and sprinkle with the nuts. Serve with lime wedges for squeezing over, and extra soy, to taste.\n                \n                Source: https://www.jamieoliver.com/recipes/vegetable-recipes/veggie-pad-thai/",
+  "email": "hello@hk.com",
+  "ingredients": [
+    "150 g rice noodles",
+    "sesame oil",
+    "20 g unsalted peanuts",
+    "2 cloves of garlic",
+    "80 g silken tofu",
+    "low-salt soy sauce",
+    "2 teaspoons tamarind paste",
+    "2 teaspoons sweet chilli sauce",
+    "2 limes",
+    "1 shallot",
+    "320 g crunchy veg , such as asparagus, purple sprouting broccoli, pak choi, baby corn",
+    "80 g beansprouts",
+    "2 large free-range eggs",
+    "olive oil",
+    "dried chilli flakes",
+    "½ a cos lettuce",
+    "½ a mixed bunch of fresh basil, mint and coriander , (15g)"
+  ],
+  "category": "Thai",
+  "image": "veggie-pad-thai.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c08088e7936845cfad741"
+  },
+  "name": "Thai pinched salad",
+  "description": "Peel and very finely chop the ginger and deseed and finely slice the chilli (deseed if you like). Toast the sesame seeds in a dry frying pan until lightly golden, then remove to a bowl.\n                Mix the prawns with the five-spice and ginger, finely grate in the lime zest and add a splash of sesame oil. Toss to coat, then leave to marinate.\n                Trim the lettuces, discarding any tatty outer leaves, then click the leaves apart. Pick out 12 nice-looking inner leaves (save the remaining lettuce for another recipe).\n                Cook the noodles according to the packet instructions, then drain and toss in a little sesame oil. Leave to cool, then squeeze over the lime juice.\n                Scatter over the chilli and sesame seeds, then pick over the coriander leaves. Mix well.\n                Stir-fry the marinated prawns in a hot wok or frying pan over a high heat for 2 to 3 minutes, or until just cooked. Remove to a plate.\n                \n                Source: https://www.jamieoliver.com/recipes/seafood-recipes/asian-pinch-salad/",
+  "email": "hello@hk.com",
+  "ingredients": [
+    "5 cm piece of ginger",
+    "1 fresh red chilli",
+    "25 g sesame seeds",
+    "24 raw peeled king prawns , from sustainable sources (defrost first, if using frozen)",
+    "1 pinch Chinese five-spice powder",
+    "1 lime",
+    "sesame oil",
+    "2 round lettuces",
+    "50 g fine rice noodles",
+    "½ a bunch of fresh coriander (15g)"
+  ],
+  "category": "Thai",
+  "image": "thai-chinese-inspired-pinch-salad.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c08088e7936845cfad742"
+  },
+  "name": "Thai green curry",
+  "description": "Preheat the oven to 180ºC/350ºF/gas 4.\n                Wash the squash, carefully cut it in half lengthways and remove the seeds, then cut into wedges. In a roasting tray, toss with 1 tablespoon of groundnut oil and a pinch of sea salt and black pepper, then roast for around 1 hour, or until tender and golden.\n                For the paste, toast the cumin seeds in a dry frying pan for 2 minutes, then tip into a food processor.\n                Peel, roughly chop and add the garlic, shallots and ginger, along with the kaffir lime leaves, 2 tablespoons of groundnut oil, the fish sauce, chillies (pull off the stalks), coconut and most of the coriander (stalks and all).\n                Bash the lemongrass, remove and discard the outer layer, then snap into the processor, squeeze in the lime juice and blitz into a paste, scraping down the sides halfway.\n                \n                Source: https://www.jamieoliver.com/recipes/butternut-squash-recipes/thai-green-curry/",
+  "email": "hello@hk.com",
+  "ingredients": [
+    "1 butternut squash (1.2kg)",
+    "groundnut oil",
+    "2x 400 g tins of light coconut milk",
+    "400 g leftover cooked greens, such as Brussels sprouts, Brussels tops, kale, cabbage, broccoli",
+    "350 g firm silken tofu",
+    "75 g unsalted peanuts",
+    "sesame oil",
+    "1 fresh red chilli",
+    "2 limes",
+    "1 teaspoon cumin seeds",
+    "2 cloves garlic",
+    "2 shallots",
+    "5 cm piece of ginger",
+    "4 lime leaves",
+    "2 tablespoons fish sauce",
+    "4 fresh green chillies",
+    "2 tablespoons desiccated coconut",
+    "1 bunch fresh coriander (30g)",
+    "1 stick lemongrass",
+    "1 lime"
+  ],
+  "category": "Thai",
+  "image": "thai-green-curry.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c08088e7936845cfad743"
+  },
+  "name": "Thai vegetable broth",
+  "description": "Peel and crush the garlic, then peel and roughly chop the ginger. Trim the greens, finely shredding the cabbage, if using. Trim and finely slice the spring onions and chilli. Pick the herbs.\n                Bash the lemongrass on a chopping board with a rolling pin until it breaks open, then add to a large saucepan along with the garlic, ginger and star anise.\n                Place the pan over a high heat, then pour in the vegetable stock. Bring it just to the boil, then turn down very low and gently simmer for 30 minutes.\n                A couple of minutes before it’s cooked, throw in your Asian veggies and gently cook until they are wilted but still crunchy.\n                Serve the broth in deep bowls seasoned with fish sauce (if using) and soy sauce, sprinkle with the herbs, cress, spring onion and chilli, then serve with wedges of lime.\n                \n                Source: https://www.jamieoliver.com/recipes/vegetables-recipes/asian-vegetable-broth/",
+  "email": "hello@hk.com",
+  "ingredients": [
+    "3 cloves of garlic",
+    "5cm piece of ginger",
+    "200 g mixed Asian greens , such as baby pak choi, choy sum, Chinese cabbage",
+    "2 spring onions",
+    "1 fresh red chilli",
+    "5 sprigs of fresh Thai basil",
+    "1 stick of lemongrass",
+    "2 star anise",
+    "800 ml clear organic vegetable stock",
+    "1 teaspoon fish sauce , (optional)",
+    "1 teaspooon soy sauce",
+    "1 small punnet shiso cress",
+    "1 lime"
+  ],
+  "category": "Thai",
+  "image": "thai-inspired-vegetable-broth.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c08088e7936845cfad744"
+  },
+  "name": "Thai red chicken soup",
+  "description": "Sit the chicken in a large, deep pan.\n                Carefully halve the squash lengthways, then cut into 3cm chunks, discarding the seeds.\n                Slice the coriander stalks, add to the pan with the squash, curry paste and coconut milk, then pour in 1 litre of water. Cover and simmer on a medium heat for 1 hour 20 minutes.\n                Use tongs to remove the chicken to a platter. Spoon any fat from the surface of the soup over the chicken, then sprinkle with half the coriander leaves.\n                Serve with 2 forks for divvying up the meat at the table. Use a potato masher to crush some of the squash, giving your soup a thicker texture.\n                Taste, season to perfection with sea salt and black pepper, then divide between six bowls and sprinkle with the remaining coriander.\n                Shred and add chicken, as you dig in.\n                \n                Source: https://jamieoliver.com/recipes/chicken-recipes/thai-red-chicken-soup/",
+  "email": "hello@hk.com",
+  "ingredients": [
+    "1 x 1.6 kg whole chicken",
+    "1 butternut squash (1.2kg)",
+    "1 bunch of fresh coriander (30g)",
+    "100 g Thai red curry paste",
+    "1 x 400 ml tin of light coconut milk"
+  ],
+  "category": "Thai",
+  "image": "thai-red-chicken-soup.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c08088e7936845cfad745"
+  },
+  "name": "Thai style mussels",
+  "description": "Wash the mussels thoroughly, discarding any that aren’t tightly closed.\n                Trim and finely slice the spring onions, peel and finely slice the garlic. Pick and set aside the coriander leaves, then finely chop the stalks. Cut the lemongrass into 4 pieces, then finely slice the chilli.\n                In a wide saucepan, heat a little groundnut oil and soften the spring onion, garlic, coriander stalks, lemongrass and most of the red chilli for around 5 minutes.\n                Add the coconut milk and fish sauce and bring to the boil, then add the mussels and cover the pan.\n                Steam the mussels for 5 minutes, or until they've all opened and are cooked. Discard any unopened mussels.\n                Finish with a squeeze of lime juice, then sprinkle with coriander leaves and the remaining chilli to serve.\n                \n                Source: https://www.jamieoliver.com/recipes/seafood-recipes/thai-style-mussels/",
+  "email": "hello@hk.com",
+  "ingredients": [
+    "1 kg mussels , debearded, from sustainable sources",
+    "4 spring onions",
+    "2 cloves of garlic",
+    "½ a bunch of fresh coriander",
+    "1 stick of lemongrass",
+    "1 fresh red chilli",
+    "groundnut oil",
+    "1 x 400 ml tin of reduced fat coconut milk",
+    "1 tablespoon fish sauce",
+    "1 lime"
+  ],
+  "category": "Thai",
+  "image": "thai-style-mussels.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c08088e7936845cfad746"
+  },
+  "name": "Tom daley",
+  "description": "Drain the juices from the tinned fruit into a bowl, add the soy and fish sauces, then whisk in 1 teaspoon of cornflour until smooth. Chop the pineapple and peaches into bite-sized chunks and put aside.\n                Pull off the chicken skin, lay it flat in a large, cold frying pan, place on a low heat and leave for a few minutes to render the fat, turning occasionally. Once golden, remove the crispy skin to a plate, adding a pinch of sea salt and five-spice.\n                Meanwhile, slice the chicken into 3cm chunks and place in a bowl with 1 heaped teaspoon of five-spice, a pinch of salt, 1 teaspoon of cornflour and half the lime juice. Peel, finely chop and add 1 clove of garlic, then toss to coat.\n                Next, prep the veg: trim and roughly slice the asparagus and broccoli at an angle, leaving the pretty tips intact. Peel the onion, cut into quarters and break apart into petals, then peel the remaining clove of garlic and finely slice with the chillies. Deseed and roughly chop the peppers, then peel and matchstick the ginger.\n                Place the frying pan on a high heat and cook the chicken for 5 to 6 minutes, or until golden and cooked through, turning halfway, then leave on a low heat.\n                Meanwhile, place a wok on a high heat and scatter in the pepper and onion to scald and char for 5 minutes. Add 1 tablespoon of oil, followed by the peaches, pineapple, ginger, garlic, most of the chillies, the baby sweetcorn, asparagus and broccoli.\n                Stir-fry for 3 minutes, then pour in the sauce. Cook for just a few minutes – you want to keep the veg on the edge of raw – adding a good splash of boiling water to loosen the sauce, if needed.\n                Drizzle the honey into the chicken pan, turn the heat back up to high, and toss until sticky and caramelized. Plate up the veg and top with the chicken. Clank up the reserved crispy skin, and scatter over with the remaining chilli.\n                Pick over the coriander leaves and serve right away, with lime wedges for squeezing over. Good with classic fluffy rice.\n                \n                Source: https://www.jamieoliver.com/recipes/chicken-recipes/tom-daley-s-sweet-sour-chicken/",
+  "email": "hello@hk.com",
+  "ingredients": [
+    "1 x 227 g tin of pineapple in natural juice",
+    "1 x 213 g tin of peaches in natural juice",
+    "1 tablespoon low-salt soy sauce",
+    "1 tablespoon fish sauce",
+    "2 teaspoons cornflour",
+    "2 x 120 g free-range chicken breasts , skin on",
+    "Chinese five-spice",
+    "1 lime",
+    "2 cloves of garlic",
+    "1 bunch of asparagus , (350g)",
+    "100 g tenderstem broccoli",
+    "1 small onion",
+    "2 fresh red chillies",
+    "1 red pepper",
+    "1 yellow pepper",
+    "7 cm piece of ginger",
+    "groundnut oil",
+    "100 g baby sweetcorn",
+    "1 teaspoon runny honey",
+    "½ a bunch of fresh coriander , (15g)"
+  ],
+  "category": "Chinese",
+  "image": "tom-daley.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c08088e7936845cfad747"
+  },
+  "name": "Veggie pad thai",
+  "description": "Cook the noodles according to the packet instructions, then drain and refresh under cold running water and toss with 1 teaspoon of sesame oil.\n                Lightly toast the peanuts in a large non-stick frying pan on a medium heat until golden, then bash in a pestle and mortar until fine, and tip into a bowl.\n                Peel the garlic and bash to a paste with the tofu, add 1 teaspoon of sesame oil, 1 tablespoon of soy, the tamarind paste and chilli sauce, then squeeze and muddle in half the lime juice.\n                Peel and finely slice the shallot, then place in the frying pan over a high heat. Trim, prep and slice the crunchy veg, as necessary, then dry-fry for 4 minutes, or until lightly charred (to bring out a nutty, slightly smoky flavour).\n                Add the noodles, sauce, beansprouts, and a good splash of water, toss together over the heat for 1 minute, then divide between serving bowls.\n                Wipe out the pan, crack in the eggs and cook to your liking in a little olive oil, sprinkling with a pinch of chilli flakes. Trim the lettuce, click apart the leaves and place a few in each bowl.\n                Pop the eggs on top, pick over the herbs, and sprinkle with the nuts. Serve with lime wedges for squeezing over, and extra soy, to taste.\n                \n                Source: https://www.jamieoliver.com/recipes/vegetable-recipes/veggie-pad-thai/",
+  "email": "hello@hk.com",
+  "ingredients": [
+    "150 g rice noodles",
+    "sesame oil",
+    "20 g unsalted peanuts",
+    "2 cloves of garlic",
+    "80 g silken tofu",
+    "low-salt soy sauce",
+    "2 teaspoons tamarind paste",
+    "2 teaspoons sweet chilli sauce",
+    "2 limes",
+    "1 shallot",
+    "320 g crunchy veg , such as asparagus, purple sprouting broccoli, pak choi, baby corn",
+    "80 g beansprouts",
+    "2 large free-range eggs",
+    "olive oil",
+    "dried chilli flakes",
+    "½ a cos lettuce",
+    "½ a mixed bunch of fresh basil, mint and coriander , (15g)"
+  ],
+  "category": "Thai",
+  "image": "veggie-pad-thai.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c080f432ee8495e737772"
+  },
+  "name": "Thai pinched salad",
+  "description": "Peel and very finely chop the ginger and deseed and finely slice the chilli (deseed if you like). Toast the sesame seeds in a dry frying pan until lightly golden, then remove to a bowl.\n                Mix the prawns with the five-spice and ginger, finely grate in the lime zest and add a splash of sesame oil. Toss to coat, then leave to marinate.\n                Trim the lettuces, discarding any tatty outer leaves, then click the leaves apart. Pick out 12 nice-looking inner leaves (save the remaining lettuce for another recipe).\n                Cook the noodles according to the packet instructions, then drain and toss in a little sesame oil. Leave to cool, then squeeze over the lime juice.\n                Scatter over the chilli and sesame seeds, then pick over the coriander leaves. Mix well.\n                Stir-fry the marinated prawns in a hot wok or frying pan over a high heat for 2 to 3 minutes, or until just cooked. Remove to a plate.\n                \n                Source: https://www.jamieoliver.com/recipes/seafood-recipes/asian-pinch-salad/",
+  "email": "hello@hk.com",
+  "ingredients": [
+    "5 cm piece of ginger",
+    "1 fresh red chilli",
+    "25 g sesame seeds",
+    "24 raw peeled king prawns , from sustainable sources (defrost first, if using frozen)",
+    "1 pinch Chinese five-spice powder",
+    "1 lime",
+    "sesame oil",
+    "2 round lettuces",
+    "50 g fine rice noodles",
+    "½ a bunch of fresh coriander (15g)"
+  ],
+  "category": "Thai",
+  "image": "thai-chinese-inspired-pinch-salad.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c080f432ee8495e737773"
+  },
+  "name": "Thai green curry",
+  "description": "Preheat the oven to 180ºC/350ºF/gas 4.\n                Wash the squash, carefully cut it in half lengthways and remove the seeds, then cut into wedges. In a roasting tray, toss with 1 tablespoon of groundnut oil and a pinch of sea salt and black pepper, then roast for around 1 hour, or until tender and golden.\n                For the paste, toast the cumin seeds in a dry frying pan for 2 minutes, then tip into a food processor.\n                Peel, roughly chop and add the garlic, shallots and ginger, along with the kaffir lime leaves, 2 tablespoons of groundnut oil, the fish sauce, chillies (pull off the stalks), coconut and most of the coriander (stalks and all).\n                Bash the lemongrass, remove and discard the outer layer, then snap into the processor, squeeze in the lime juice and blitz into a paste, scraping down the sides halfway.\n                \n                Source: https://www.jamieoliver.com/recipes/butternut-squash-recipes/thai-green-curry/",
+  "email": "hello@hk.com",
+  "ingredients": [
+    "1 butternut squash (1.2kg)",
+    "groundnut oil",
+    "2x 400 g tins of light coconut milk",
+    "400 g leftover cooked greens, such as Brussels sprouts, Brussels tops, kale, cabbage, broccoli",
+    "350 g firm silken tofu",
+    "75 g unsalted peanuts",
+    "sesame oil",
+    "1 fresh red chilli",
+    "2 limes",
+    "1 teaspoon cumin seeds",
+    "2 cloves garlic",
+    "2 shallots",
+    "5 cm piece of ginger",
+    "4 lime leaves",
+    "2 tablespoons fish sauce",
+    "4 fresh green chillies",
+    "2 tablespoons desiccated coconut",
+    "1 bunch fresh coriander (30g)",
+    "1 stick lemongrass",
+    "1 lime"
+  ],
+  "category": "Thai",
+  "image": "thai-green-curry.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c080f432ee8495e737774"
+  },
+  "name": "Thai vegetable broth",
+  "description": "Peel and crush the garlic, then peel and roughly chop the ginger. Trim the greens, finely shredding the cabbage, if using. Trim and finely slice the spring onions and chilli. Pick the herbs.\n                Bash the lemongrass on a chopping board with a rolling pin until it breaks open, then add to a large saucepan along with the garlic, ginger and star anise.\n                Place the pan over a high heat, then pour in the vegetable stock. Bring it just to the boil, then turn down very low and gently simmer for 30 minutes.\n                A couple of minutes before it’s cooked, throw in your Asian veggies and gently cook until they are wilted but still crunchy.\n                Serve the broth in deep bowls seasoned with fish sauce (if using) and soy sauce, sprinkle with the herbs, cress, spring onion and chilli, then serve with wedges of lime.\n                \n                Source: https://www.jamieoliver.com/recipes/vegetables-recipes/asian-vegetable-broth/",
+  "email": "hello@hk.com",
+  "ingredients": [
+    "3 cloves of garlic",
+    "5cm piece of ginger",
+    "200 g mixed Asian greens , such as baby pak choi, choy sum, Chinese cabbage",
+    "2 spring onions",
+    "1 fresh red chilli",
+    "5 sprigs of fresh Thai basil",
+    "1 stick of lemongrass",
+    "2 star anise",
+    "800 ml clear organic vegetable stock",
+    "1 teaspoon fish sauce , (optional)",
+    "1 teaspooon soy sauce",
+    "1 small punnet shiso cress",
+    "1 lime"
+  ],
+  "category": "Thai",
+  "image": "thai-inspired-vegetable-broth.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c080f432ee8495e737775"
+  },
+  "name": "Thai red chicken soup",
+  "description": "Sit the chicken in a large, deep pan.\n                Carefully halve the squash lengthways, then cut into 3cm chunks, discarding the seeds.\n                Slice the coriander stalks, add to the pan with the squash, curry paste and coconut milk, then pour in 1 litre of water. Cover and simmer on a medium heat for 1 hour 20 minutes.\n                Use tongs to remove the chicken to a platter. Spoon any fat from the surface of the soup over the chicken, then sprinkle with half the coriander leaves.\n                Serve with 2 forks for divvying up the meat at the table. Use a potato masher to crush some of the squash, giving your soup a thicker texture.\n                Taste, season to perfection with sea salt and black pepper, then divide between six bowls and sprinkle with the remaining coriander.\n                Shred and add chicken, as you dig in.\n                \n                Source: https://jamieoliver.com/recipes/chicken-recipes/thai-red-chicken-soup/",
+  "email": "hello@hk.com",
+  "ingredients": [
+    "1 x 1.6 kg whole chicken",
+    "1 butternut squash (1.2kg)",
+    "1 bunch of fresh coriander (30g)",
+    "100 g Thai red curry paste",
+    "1 x 400 ml tin of light coconut milk"
+  ],
+  "category": "Thai",
+  "image": "thai-red-chicken-soup.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c080f432ee8495e737776"
+  },
+  "name": "Thai style mussels",
+  "description": "Wash the mussels thoroughly, discarding any that aren’t tightly closed.\n                Trim and finely slice the spring onions, peel and finely slice the garlic. Pick and set aside the coriander leaves, then finely chop the stalks. Cut the lemongrass into 4 pieces, then finely slice the chilli.\n                In a wide saucepan, heat a little groundnut oil and soften the spring onion, garlic, coriander stalks, lemongrass and most of the red chilli for around 5 minutes.\n                Add the coconut milk and fish sauce and bring to the boil, then add the mussels and cover the pan.\n                Steam the mussels for 5 minutes, or until they've all opened and are cooked. Discard any unopened mussels.\n                Finish with a squeeze of lime juice, then sprinkle with coriander leaves and the remaining chilli to serve.\n                \n                Source: https://www.jamieoliver.com/recipes/seafood-recipes/thai-style-mussels/",
+  "email": "hello@hk.com",
+  "ingredients": [
+    "1 kg mussels , debearded, from sustainable sources",
+    "4 spring onions",
+    "2 cloves of garlic",
+    "½ a bunch of fresh coriander",
+    "1 stick of lemongrass",
+    "1 fresh red chilli",
+    "groundnut oil",
+    "1 x 400 ml tin of reduced fat coconut milk",
+    "1 tablespoon fish sauce",
+    "1 lime"
+  ],
+  "category": "Thai",
+  "image": "thai-style-mussels.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c080f432ee8495e737777"
+  },
+  "name": "Tom daley",
+  "description": "Drain the juices from the tinned fruit into a bowl, add the soy and fish sauces, then whisk in 1 teaspoon of cornflour until smooth. Chop the pineapple and peaches into bite-sized chunks and put aside.\n                Pull off the chicken skin, lay it flat in a large, cold frying pan, place on a low heat and leave for a few minutes to render the fat, turning occasionally. Once golden, remove the crispy skin to a plate, adding a pinch of sea salt and five-spice.\n                Meanwhile, slice the chicken into 3cm chunks and place in a bowl with 1 heaped teaspoon of five-spice, a pinch of salt, 1 teaspoon of cornflour and half the lime juice. Peel, finely chop and add 1 clove of garlic, then toss to coat.\n                Next, prep the veg: trim and roughly slice the asparagus and broccoli at an angle, leaving the pretty tips intact. Peel the onion, cut into quarters and break apart into petals, then peel the remaining clove of garlic and finely slice with the chillies. Deseed and roughly chop the peppers, then peel and matchstick the ginger.\n                Place the frying pan on a high heat and cook the chicken for 5 to 6 minutes, or until golden and cooked through, turning halfway, then leave on a low heat.\n                Meanwhile, place a wok on a high heat and scatter in the pepper and onion to scald and char for 5 minutes. Add 1 tablespoon of oil, followed by the peaches, pineapple, ginger, garlic, most of the chillies, the baby sweetcorn, asparagus and broccoli.\n                Stir-fry for 3 minutes, then pour in the sauce. Cook for just a few minutes – you want to keep the veg on the edge of raw – adding a good splash of boiling water to loosen the sauce, if needed.\n                Drizzle the honey into the chicken pan, turn the heat back up to high, and toss until sticky and caramelized. Plate up the veg and top with the chicken. Clank up the reserved crispy skin, and scatter over with the remaining chilli.\n                Pick over the coriander leaves and serve right away, with lime wedges for squeezing over. Good with classic fluffy rice.\n                \n                Source: https://www.jamieoliver.com/recipes/chicken-recipes/tom-daley-s-sweet-sour-chicken/",
+  "email": "hello@hk.com",
+  "ingredients": [
+    "1 x 227 g tin of pineapple in natural juice",
+    "1 x 213 g tin of peaches in natural juice",
+    "1 tablespoon low-salt soy sauce",
+    "1 tablespoon fish sauce",
+    "2 teaspoons cornflour",
+    "2 x 120 g free-range chicken breasts , skin on",
+    "Chinese five-spice",
+    "1 lime",
+    "2 cloves of garlic",
+    "1 bunch of asparagus , (350g)",
+    "100 g tenderstem broccoli",
+    "1 small onion",
+    "2 fresh red chillies",
+    "1 red pepper",
+    "1 yellow pepper",
+    "7 cm piece of ginger",
+    "groundnut oil",
+    "100 g baby sweetcorn",
+    "1 teaspoon runny honey",
+    "½ a bunch of fresh coriander , (15g)"
+  ],
+  "category": "Chinese",
+  "image": "tom-daley.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c080f432ee8495e737778"
+  },
+  "name": "Veggie pad thai",
+  "description": "Cook the noodles according to the packet instructions, then drain and refresh under cold running water and toss with 1 teaspoon of sesame oil.\n                Lightly toast the peanuts in a large non-stick frying pan on a medium heat until golden, then bash in a pestle and mortar until fine, and tip into a bowl.\n                Peel the garlic and bash to a paste with the tofu, add 1 teaspoon of sesame oil, 1 tablespoon of soy, the tamarind paste and chilli sauce, then squeeze and muddle in half the lime juice.\n                Peel and finely slice the shallot, then place in the frying pan over a high heat. Trim, prep and slice the crunchy veg, as necessary, then dry-fry for 4 minutes, or until lightly charred (to bring out a nutty, slightly smoky flavour).\n                Add the noodles, sauce, beansprouts, and a good splash of water, toss together over the heat for 1 minute, then divide between serving bowls.\n                Wipe out the pan, crack in the eggs and cook to your liking in a little olive oil, sprinkling with a pinch of chilli flakes. Trim the lettuce, click apart the leaves and place a few in each bowl.\n                Pop the eggs on top, pick over the herbs, and sprinkle with the nuts. Serve with lime wedges for squeezing over, and extra soy, to taste.\n                \n                Source: https://www.jamieoliver.com/recipes/vegetable-recipes/veggie-pad-thai/",
+  "email": "hello@hk.com",
+  "ingredients": [
+    "150 g rice noodles",
+    "sesame oil",
+    "20 g unsalted peanuts",
+    "2 cloves of garlic",
+    "80 g silken tofu",
+    "low-salt soy sauce",
+    "2 teaspoons tamarind paste",
+    "2 teaspoons sweet chilli sauce",
+    "2 limes",
+    "1 shallot",
+    "320 g crunchy veg , such as asparagus, purple sprouting broccoli, pak choi, baby corn",
+    "80 g beansprouts",
+    "2 large free-range eggs",
+    "olive oil",
+    "dried chilli flakes",
+    "½ a cos lettuce",
+    "½ a mixed bunch of fresh basil, mint and coriander , (15g)"
+  ],
+  "category": "Thai",
+  "image": "veggie-pad-thai.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c08112412eda499014b7e"
+  },
+  "name": "Thai pinched salad",
+  "description": "Peel and very finely chop the ginger and deseed and finely slice the chilli (deseed if you like). Toast the sesame seeds in a dry frying pan until lightly golden, then remove to a bowl.\n                Mix the prawns with the five-spice and ginger, finely grate in the lime zest and add a splash of sesame oil. Toss to coat, then leave to marinate.\n                Trim the lettuces, discarding any tatty outer leaves, then click the leaves apart. Pick out 12 nice-looking inner leaves (save the remaining lettuce for another recipe).\n                Cook the noodles according to the packet instructions, then drain and toss in a little sesame oil. Leave to cool, then squeeze over the lime juice.\n                Scatter over the chilli and sesame seeds, then pick over the coriander leaves. Mix well.\n                Stir-fry the marinated prawns in a hot wok or frying pan over a high heat for 2 to 3 minutes, or until just cooked. Remove to a plate.\n                \n                Source: https://www.jamieoliver.com/recipes/seafood-recipes/asian-pinch-salad/",
+  "email": "hello@hk.com",
+  "ingredients": [
+    "5 cm piece of ginger",
+    "1 fresh red chilli",
+    "25 g sesame seeds",
+    "24 raw peeled king prawns , from sustainable sources (defrost first, if using frozen)",
+    "1 pinch Chinese five-spice powder",
+    "1 lime",
+    "sesame oil",
+    "2 round lettuces",
+    "50 g fine rice noodles",
+    "½ a bunch of fresh coriander (15g)"
+  ],
+  "category": "Thai",
+  "image": "thai-chinese-inspired-pinch-salad.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c08112412eda499014b7f"
+  },
+  "name": "Thai green curry",
+  "description": "Preheat the oven to 180ºC/350ºF/gas 4.\n                Wash the squash, carefully cut it in half lengthways and remove the seeds, then cut into wedges. In a roasting tray, toss with 1 tablespoon of groundnut oil and a pinch of sea salt and black pepper, then roast for around 1 hour, or until tender and golden.\n                For the paste, toast the cumin seeds in a dry frying pan for 2 minutes, then tip into a food processor.\n                Peel, roughly chop and add the garlic, shallots and ginger, along with the kaffir lime leaves, 2 tablespoons of groundnut oil, the fish sauce, chillies (pull off the stalks), coconut and most of the coriander (stalks and all).\n                Bash the lemongrass, remove and discard the outer layer, then snap into the processor, squeeze in the lime juice and blitz into a paste, scraping down the sides halfway.\n                \n                Source: https://www.jamieoliver.com/recipes/butternut-squash-recipes/thai-green-curry/",
+  "email": "hello@hk.com",
+  "ingredients": [
+    "1 butternut squash (1.2kg)",
+    "groundnut oil",
+    "2x 400 g tins of light coconut milk",
+    "400 g leftover cooked greens, such as Brussels sprouts, Brussels tops, kale, cabbage, broccoli",
+    "350 g firm silken tofu",
+    "75 g unsalted peanuts",
+    "sesame oil",
+    "1 fresh red chilli",
+    "2 limes",
+    "1 teaspoon cumin seeds",
+    "2 cloves garlic",
+    "2 shallots",
+    "5 cm piece of ginger",
+    "4 lime leaves",
+    "2 tablespoons fish sauce",
+    "4 fresh green chillies",
+    "2 tablespoons desiccated coconut",
+    "1 bunch fresh coriander (30g)",
+    "1 stick lemongrass",
+    "1 lime"
+  ],
+  "category": "Thai",
+  "image": "thai-green-curry.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c08112412eda499014b80"
+  },
+  "name": "Thai vegetable broth",
+  "description": "Peel and crush the garlic, then peel and roughly chop the ginger. Trim the greens, finely shredding the cabbage, if using. Trim and finely slice the spring onions and chilli. Pick the herbs.\n                Bash the lemongrass on a chopping board with a rolling pin until it breaks open, then add to a large saucepan along with the garlic, ginger and star anise.\n                Place the pan over a high heat, then pour in the vegetable stock. Bring it just to the boil, then turn down very low and gently simmer for 30 minutes.\n                A couple of minutes before it’s cooked, throw in your Asian veggies and gently cook until they are wilted but still crunchy.\n                Serve the broth in deep bowls seasoned with fish sauce (if using) and soy sauce, sprinkle with the herbs, cress, spring onion and chilli, then serve with wedges of lime.\n                \n                Source: https://www.jamieoliver.com/recipes/vegetables-recipes/asian-vegetable-broth/",
+  "email": "hello@hk.com",
+  "ingredients": [
+    "3 cloves of garlic",
+    "5cm piece of ginger",
+    "200 g mixed Asian greens , such as baby pak choi, choy sum, Chinese cabbage",
+    "2 spring onions",
+    "1 fresh red chilli",
+    "5 sprigs of fresh Thai basil",
+    "1 stick of lemongrass",
+    "2 star anise",
+    "800 ml clear organic vegetable stock",
+    "1 teaspoon fish sauce , (optional)",
+    "1 teaspooon soy sauce",
+    "1 small punnet shiso cress",
+    "1 lime"
+  ],
+  "category": "Thai",
+  "image": "thai-inspired-vegetable-broth.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c08112412eda499014b81"
+  },
+  "name": "Thai red chicken soup",
+  "description": "Sit the chicken in a large, deep pan.\n                Carefully halve the squash lengthways, then cut into 3cm chunks, discarding the seeds.\n                Slice the coriander stalks, add to the pan with the squash, curry paste and coconut milk, then pour in 1 litre of water. Cover and simmer on a medium heat for 1 hour 20 minutes.\n                Use tongs to remove the chicken to a platter. Spoon any fat from the surface of the soup over the chicken, then sprinkle with half the coriander leaves.\n                Serve with 2 forks for divvying up the meat at the table. Use a potato masher to crush some of the squash, giving your soup a thicker texture.\n                Taste, season to perfection with sea salt and black pepper, then divide between six bowls and sprinkle with the remaining coriander.\n                Shred and add chicken, as you dig in.\n                \n                Source: https://jamieoliver.com/recipes/chicken-recipes/thai-red-chicken-soup/",
+  "email": "hello@hk.com",
+  "ingredients": [
+    "1 x 1.6 kg whole chicken",
+    "1 butternut squash (1.2kg)",
+    "1 bunch of fresh coriander (30g)",
+    "100 g Thai red curry paste",
+    "1 x 400 ml tin of light coconut milk"
+  ],
+  "category": "Thai",
+  "image": "thai-red-chicken-soup.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c08112412eda499014b82"
+  },
+  "name": "Thai style mussels",
+  "description": "Wash the mussels thoroughly, discarding any that aren’t tightly closed.\n                Trim and finely slice the spring onions, peel and finely slice the garlic. Pick and set aside the coriander leaves, then finely chop the stalks. Cut the lemongrass into 4 pieces, then finely slice the chilli.\n                In a wide saucepan, heat a little groundnut oil and soften the spring onion, garlic, coriander stalks, lemongrass and most of the red chilli for around 5 minutes.\n                Add the coconut milk and fish sauce and bring to the boil, then add the mussels and cover the pan.\n                Steam the mussels for 5 minutes, or until they've all opened and are cooked. Discard any unopened mussels.\n                Finish with a squeeze of lime juice, then sprinkle with coriander leaves and the remaining chilli to serve.\n                \n                Source: https://www.jamieoliver.com/recipes/seafood-recipes/thai-style-mussels/",
+  "email": "hello@hk.com",
+  "ingredients": [
+    "1 kg mussels , debearded, from sustainable sources",
+    "4 spring onions",
+    "2 cloves of garlic",
+    "½ a bunch of fresh coriander",
+    "1 stick of lemongrass",
+    "1 fresh red chilli",
+    "groundnut oil",
+    "1 x 400 ml tin of reduced fat coconut milk",
+    "1 tablespoon fish sauce",
+    "1 lime"
+  ],
+  "category": "Thai",
+  "image": "thai-style-mussels.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c08112412eda499014b83"
+  },
+  "name": "Tom daley",
+  "description": "Drain the juices from the tinned fruit into a bowl, add the soy and fish sauces, then whisk in 1 teaspoon of cornflour until smooth. Chop the pineapple and peaches into bite-sized chunks and put aside.\n                Pull off the chicken skin, lay it flat in a large, cold frying pan, place on a low heat and leave for a few minutes to render the fat, turning occasionally. Once golden, remove the crispy skin to a plate, adding a pinch of sea salt and five-spice.\n                Meanwhile, slice the chicken into 3cm chunks and place in a bowl with 1 heaped teaspoon of five-spice, a pinch of salt, 1 teaspoon of cornflour and half the lime juice. Peel, finely chop and add 1 clove of garlic, then toss to coat.\n                Next, prep the veg: trim and roughly slice the asparagus and broccoli at an angle, leaving the pretty tips intact. Peel the onion, cut into quarters and break apart into petals, then peel the remaining clove of garlic and finely slice with the chillies. Deseed and roughly chop the peppers, then peel and matchstick the ginger.\n                Place the frying pan on a high heat and cook the chicken for 5 to 6 minutes, or until golden and cooked through, turning halfway, then leave on a low heat.\n                Meanwhile, place a wok on a high heat and scatter in the pepper and onion to scald and char for 5 minutes. Add 1 tablespoon of oil, followed by the peaches, pineapple, ginger, garlic, most of the chillies, the baby sweetcorn, asparagus and broccoli.\n                Stir-fry for 3 minutes, then pour in the sauce. Cook for just a few minutes – you want to keep the veg on the edge of raw – adding a good splash of boiling water to loosen the sauce, if needed.\n                Drizzle the honey into the chicken pan, turn the heat back up to high, and toss until sticky and caramelized. Plate up the veg and top with the chicken. Clank up the reserved crispy skin, and scatter over with the remaining chilli.\n                Pick over the coriander leaves and serve right away, with lime wedges for squeezing over. Good with classic fluffy rice.\n                \n                Source: https://www.jamieoliver.com/recipes/chicken-recipes/tom-daley-s-sweet-sour-chicken/",
+  "email": "hello@hk.com",
+  "ingredients": [
+    "1 x 227 g tin of pineapple in natural juice",
+    "1 x 213 g tin of peaches in natural juice",
+    "1 tablespoon low-salt soy sauce",
+    "1 tablespoon fish sauce",
+    "2 teaspoons cornflour",
+    "2 x 120 g free-range chicken breasts , skin on",
+    "Chinese five-spice",
+    "1 lime",
+    "2 cloves of garlic",
+    "1 bunch of asparagus , (350g)",
+    "100 g tenderstem broccoli",
+    "1 small onion",
+    "2 fresh red chillies",
+    "1 red pepper",
+    "1 yellow pepper",
+    "7 cm piece of ginger",
+    "groundnut oil",
+    "100 g baby sweetcorn",
+    "1 teaspoon runny honey",
+    "½ a bunch of fresh coriander , (15g)"
+  ],
+  "category": "Chinese",
+  "image": "tom-daley.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c08112412eda499014b84"
+  },
+  "name": "Veggie pad thai",
+  "description": "Cook the noodles according to the packet instructions, then drain and refresh under cold running water and toss with 1 teaspoon of sesame oil.\n                Lightly toast the peanuts in a large non-stick frying pan on a medium heat until golden, then bash in a pestle and mortar until fine, and tip into a bowl.\n                Peel the garlic and bash to a paste with the tofu, add 1 teaspoon of sesame oil, 1 tablespoon of soy, the tamarind paste and chilli sauce, then squeeze and muddle in half the lime juice.\n                Peel and finely slice the shallot, then place in the frying pan over a high heat. Trim, prep and slice the crunchy veg, as necessary, then dry-fry for 4 minutes, or until lightly charred (to bring out a nutty, slightly smoky flavour).\n                Add the noodles, sauce, beansprouts, and a good splash of water, toss together over the heat for 1 minute, then divide between serving bowls.\n                Wipe out the pan, crack in the eggs and cook to your liking in a little olive oil, sprinkling with a pinch of chilli flakes. Trim the lettuce, click apart the leaves and place a few in each bowl.\n                Pop the eggs on top, pick over the herbs, and sprinkle with the nuts. Serve with lime wedges for squeezing over, and extra soy, to taste.\n                \n                Source: https://www.jamieoliver.com/recipes/vegetable-recipes/veggie-pad-thai/",
+  "email": "hello@hk.com",
+  "ingredients": [
+    "150 g rice noodles",
+    "sesame oil",
+    "20 g unsalted peanuts",
+    "2 cloves of garlic",
+    "80 g silken tofu",
+    "low-salt soy sauce",
+    "2 teaspoons tamarind paste",
+    "2 teaspoons sweet chilli sauce",
+    "2 limes",
+    "1 shallot",
+    "320 g crunchy veg , such as asparagus, purple sprouting broccoli, pak choi, baby corn",
+    "80 g beansprouts",
+    "2 large free-range eggs",
+    "olive oil",
+    "dried chilli flakes",
+    "½ a cos lettuce",
+    "½ a mixed bunch of fresh basil, mint and coriander , (15g)"
+  ],
+  "category": "Thai",
+  "image": "veggie-pad-thai.jpg",
+  "__v": 0
+}]
