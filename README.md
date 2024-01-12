@@ -1,10 +1,10 @@
- **# CookingBlog**
+ # CookingBlog
 
 **A delicious collection of recipes to share and explore!**
 
 This repository houses a Node.js application that showcases a variety of cooking recipes, powered by MongoDB, Express, and EJS. Dive in to discover culinary delights and share your own creations!
 
-**## Getting Started**
+## Getting Started
 
 1. **Clone the repository:**
 
@@ -38,22 +38,22 @@ This repository houses a Node.js application that showcases a variety of cooking
    npm start
    ```
 
-**## Usage**
+## Usage
 
 - Once the application is running, access it in your web browser at `http://localhost:3000` (or the specified port).
 - Explore the recipes, add new ones, and share your culinary experiences!
 
-**## Technologies Used**
+## Technologies Used
 
 - Node.js
 - MongoDB
 - Express
 - EJS
 
-**## Contributing**
+## Contributing
 
 Feel free to contribute to this project by adding new recipes, features, or enhancements!
 
-**## License**
+## License
 
 This project is licensed under the MIT License.
